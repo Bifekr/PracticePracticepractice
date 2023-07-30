@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice Practice practice</string>
+    <string name="title_activity_first_review">FirstReview</string>
+    <string name="title_activity_second_review">SecondReview</string>
+</resources>
